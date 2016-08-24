@@ -1,4 +1,0 @@
-4th to 10th  -------> Embedded Linux ppts(free electronics) + linux commands
-11th to 19th --------> Shell Scripting + Micro processors basics Videos
-22nd to 25th --------> Git 
-
